@@ -18,6 +18,9 @@ import javafx.scene.layout.HBox;
 import javafx.scene.text.Text;
 import order.Order;
 
+/**
+* Testing the fetch command
+**/
 public class Client extends BorderPane{
 	//orders class declaration
 	private Order order;
