@@ -20,6 +20,7 @@ import order.Order;
 
 /**
 * Testing the fetch command
+ * this was added from intellij
 **/
 public class Client extends BorderPane{
 	//orders class declaration
